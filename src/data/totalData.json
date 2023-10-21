@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "priyank",
+      "email": "priyank@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "priyank",
+      "email": "priyank@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 5,
+      "name": "priyank",
+      "email": "priyank@gmail.com",
+      "password": "123"
+    }
+  ]
+}
